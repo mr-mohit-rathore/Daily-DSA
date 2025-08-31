@@ -1,2 +1,2 @@
 # DSA-Busted
-My DSA practice data on git hut
+My DSA practice data on Git Hub

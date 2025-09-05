@@ -10,6 +10,7 @@ public class LC167_TwoSumII {
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,9, 11, 15},18)));
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,8, 11, 15},17)));
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,10, 11, 15},25)));
+        System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,10, 11, 17},21)));
     }
     public static int[] twoSum(int[] numbers, int target) {
         int start = 0;

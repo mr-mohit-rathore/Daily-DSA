@@ -6,6 +6,8 @@ public class LC167_TwoSumII {
 
     public static void main(String[] args) {
         //test method
+        int a=5;
+        System.out.println(a++ + ++a);
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7, 11, 15},9)));
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,9, 11, 15},18)));
         System.out.println("output -> "+ Arrays.toString(twoSum(new int[]{2, 7,8, 11, 15},17)));

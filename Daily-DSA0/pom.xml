@@ -8,8 +8,8 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.daily-dsa0</groupId>
-	<artifactId>Daily-DSA0</artifactId>
+	<groupId>com.daily-dsa</groupId>
+	<artifactId>Daily-DSA</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Daily-DSA0</name>
 	<description>DSA project for learning and saving work history</description>

@@ -9,6 +9,7 @@ public class LC692_TopKFrequent {
         String[] words=new String[]{"i","love","leetcode","i","love","coding"};
         System.out.println(as.topKFrequent(words,2));
     }
+    // this approach is not optimized well
     public List<String> topKFrequent(String[] words, int k) {
         HashMap<String,Integer> map=new HashMap<>();
         for (String word : words) {
@@ -33,4 +34,6 @@ public class LC692_TopKFrequent {
         }
         return ans;
     }
+
+    //TO BE ->  to write optimized approach for it
 }
